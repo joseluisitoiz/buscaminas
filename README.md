@@ -10,18 +10,18 @@ Versión del clásico Buscaminas, con 3 niveles de dificultad:
 
 <p>En la parte superior se pueden ver las banderas que nos faltan por colocar y el tiempo que ha transcurrido.</p>
 <p align="center">
-  <img src="http://joseluisitoiz.esy.es/images/buscaminas1.gif"/>
+  <img src="http://joseluisitoiz.com/images/buscaminas1.gif"/>
 </p>
 
 
 <p>Haciendo click con el botón izquierdo del ratón se descubre el contenido de una celda. Si no contiene mina se verá el numero de minas que hay en las celdas que limitan con ella.</p>
 
 <p align="center">
-  <img src="http://joseluisitoiz.esy.es/images/buscaminas3.gif"/>
+  <img src="http://joseluisitoiz.com/images/buscaminas3.gif"/>
 </p>
 
 <p>El juego termina si consigues colocar una bandera (botón derecho) sobre cada una de las celdas con mina sin haber explotado ninguna.</p>
 
 <p align="center">
-  <img src="http://joseluisitoiz.esy.es/images/buscaminas2.gif"/>
+  <img src="http://joseluisitoiz.com/images/buscaminas2.gif"/>
 </p>
